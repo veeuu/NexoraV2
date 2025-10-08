@@ -1,0 +1,256 @@
+{
+  "Document_ID": "nvidia-2025-10-01-001",
+  "Company Name": "Nvidia Corporation",
+  "Firmographics": {
+    "About": {
+      "Company Name": "Nvidia Corporation",
+      "Domain": "www.nvidia.com",
+      "Industry": "Semiconductors / Technology",
+      "Full Time employees": 29600,
+      "NAICS": "334413"
+    },
+    "Location": {
+      "Address": "2788 San Tomas Expressway",
+      "City": "Santa Clara",
+      "State": "CA",
+      "Country": "United States",
+      "Contact": "+1 408 486 2000"
+    }
+  },
+  "Technographics": [
+    {
+      "Category": "Cloud",
+      "Keyword": "azure",
+      "Page URL": "https://careers.nvidia.com/jobs",
+      "Previous Date": "Feb-22",
+      "Latest Date": "Oct-25",
+      "Renewal Date": "Feb-25"
+    },
+    {
+      "Category": "Cloud",
+      "Keyword": "aws",
+      "Page URL": "https://careers.nvidia.com/jobs",
+      "Previous Date": "Mar-23",
+      "Latest Date": "Oct-25",
+      "Renewal Date": "Mar-26"
+    },
+    {
+      "Category": "DevOps",
+      "Keyword": "kubernetes",
+      "Page URL": "https://developer.nvidia.com/blog/",
+      "Previous Date": "",
+      "Latest Date": "Oct-25",
+      "Renewal Date": "Oct-28"
+    }
+  ],
+  "NTP": [
+    {
+      "Category": "AI/ML",
+      "Technology": "databricks",
+      "Purchase Probability (%)": 85.2,
+      "Purchase Prediction": "Yes",
+      "NTP Analysis": "High likelihood of expanding Databricks usage for advanced analytics and AI workload management, aligning with their core business. The AI/ML market is rapidly evolving, pushing Nvidia to adopt best-in-class platforms to maintain leadership. Key competitors are leveraging Databricks for similar large-scale data processing."
+    },
+    {
+      "Category": "Cloud",
+      "Technology": "gcp",
+      "Purchase Probability (%)": 68.5,
+      "Purchase Prediction": "Yes",
+      "NTP Analysis": "Strong potential for adopting Google Cloud Platform for specific services like BigQuery and AI Platform, diversifying their multi-cloud strategy. Industry trend towards multi-cloud is influencing Nvidia to explore GCP's unique strengths. Competitors are already using GCP, creating pressure for Nvidia to gain similar capabilities."
+    },
+    {
+      "Category": "CRM",
+      "Technology": "salesforce",
+      "Purchase Probability (%)": 35.1,
+      "Purchase Prediction": "No",
+      "NTP Analysis": "Low probability of a new large-scale Salesforce investment, as existing systems are deeply integrated. While CRM is crucial, major platform shifts are unlikely without a compelling trigger. Competitor stability on their current CRM platforms reduces the urgency for Nvidia to make a change."
+    },
+    {
+      "Category": "Security",
+      "Technology": "crowdstrike",
+      "Purchase Probability (%)": 79.8,
+      "Purchase Prediction": "Yes",
+      "NTP Analysis": "Significant chance of adopting CrowdStrike for endpoint security, driven by the increasing complexity of cyber threats. The rising importance of cybersecurity in the tech sector makes advanced protection a priority. Many industry peers have already adopted CrowdStrike, setting a standard Nvidia is likely to follow."
+    }
+  ],
+  "Financial_Data": {
+    "Finance": {
+      "ID": "NVDA",
+      "Investor Website": "investor.nvidia.com",
+      "Exchange": "NASDAQ",
+      "Date & Time": "30-09-2025 18:00",
+      "Current Price": "952.50 $",
+      "Market Cap": "2381250000000 $",
+      "Total Revenue": "87540000000 $",
+      "Revenue Growth": "75.30%",
+      "Profit Growth": "112.10%"
+    },
+    "Dividend": {
+      "Dividend Rate": "0.20",
+      "Dividend Yield": "0.00021",
+      "Date of Last Dividend": "05-09-2025 05:30",
+      "Five Years Average Dividend Yield": "0.05",
+      "Currency": "USD"
+    },
+    "Ownership Structure": "Public"
+  },
+  "Stock_Performance": {
+    "Daily_Performance": [
+      {
+        "Date": "30-09-2025",
+        "Open": "$945.80",
+        "High": "$955.10",
+        "Low": "$942.30",
+        "Close": "$952.50",
+        "Volume": 45100200,
+        "Adjclose": "$952.50"
+      },
+      {
+        "Date": "29-09-2025",
+        "Open": "$930.10",
+        "High": "$948.60",
+        "Low": "$928.70",
+        "Close": "$946.20",
+        "Volume": 48300100,
+        "Adjclose": "$946.20"
+      }
+    ],
+    "Weekly_Performance": [
+      {
+        "Date": "29-09-2025",
+        "Open": "$930.10",
+        "High": "$955.10",
+        "Low": "$928.70",
+        "Close": "$952.50",
+        "Volume": 93400300,
+        "Adjclose": "$952.50",
+        "Dividends": 0
+      },
+      {
+        "Date": "22-09-2025",
+        "Open": "$910.50",
+        "High": "$935.20",
+        "Low": "$908.10",
+        "Close": "$929.80",
+        "Volume": 210500800,
+        "Adjclose": "$929.80",
+        "Dividends": 0
+      }
+    ],
+    "Quarterly_Performance": [
+      {
+        "Date": "01-07-2025",
+        "Open": "$850.20",
+        "High": "$955.10",
+        "Low": "$845.60",
+        "Close": "$952.50",
+        "Volume": 2987654321,
+        "Adjclose": "$952.50",
+        "Dividends": 0.05
+      },
+      {
+        "Date": "01-04-2025",
+        "Open": "$890.10",
+        "High": "$920.40",
+        "Low": "$810.00",
+        "Close": "$848.90",
+        "Volume": 3123456789,
+        "Adjclose": "$848.85",
+        "Dividends": 0
+      }
+    ],
+    "Yearly_Performance": [
+      {
+        "Date": "01-01-2025",
+        "Open": "$550.00",
+        "High": "$955.10",
+        "Low": "$545.80",
+        "Close": "$952.50",
+        "Volume": 12345678901,
+        "Adjclose": "$952.40",
+        "Dividends": 0.1
+      },
+      {
+        "Date": "01-01-2024",
+        "Open": "$480.00",
+        "High": "$555.20",
+        "Low": "$475.10",
+        "Close": "$548.70",
+        "Volume": 15432198765,
+        "Adjclose": "$548.50",
+        "Dividends": 0.2
+      }
+    ]
+  },
+  "Growth": [
+    {
+      "Period": "Current Quarter",
+      "End Date": "30-09-2025",
+      "Growth": 0.152
+    },
+    {
+      "Period": "Next Quarter",
+      "End Date": "31-12-2025",
+      "Growth": 0.185
+    },
+    {
+      "Period": "Current Year",
+      "End Date": "31-12-2025",
+      "Growth": 0.721
+    },
+    {
+      "Period": "Next Year",
+      "End Date": "31-12-2026",
+      "Growth": 0.455
+    }
+  ],
+  "Buyers_Group": [
+    {
+      "Name": "Jensen Huang",
+      "Relation": "President, Chief Executive Officer & Director",
+      "Shares": 5000,
+      "Description": "Bought at price 912.40 per share.",
+      "Date": "23-09-2025"
+    },
+    {
+      "Name": "Colette Kress",
+      "Relation": "Executive VP & Chief Financial Officer",
+      "Shares": 2000,
+      "Description": "Sold at price 940.00 per share.",
+      "Date": "15-09-2025"
+    },
+    {
+      "Name": "Debora Shoquist",
+      "Relation": "Executive VP of Operations",
+      "Shares": 1500,
+      "Description": null,
+      "Date": "02-09-2025"
+    }
+  ],
+  "Mutual_Fund_Holders": [
+    {
+      "Date": "30-06-2025",
+      "Name": "Vanguard Total Stock Market Index Fund",
+      "Holding": 0.031,
+      "Shares": 98500100
+    },
+    {
+      "Date": "30-06-2025",
+      "Name": "iShares Core S&P 500 ETF",
+      "Holding": 0.012,
+      "Shares": 38100200
+    },
+    {
+      "Date": "30-06-2025",
+      "Name": "Fidelity 500 Index Fund",
+      "Holding": 0.011,
+      "Shares": 35200300
+    },
+    {
+      "Date": "30-06-2025",
+      "Name": "SPDR S&P 500 ETF Trust",
+      "Holding": 0.01,
+      "Shares": 32000400
+    }
+  ]
+}
